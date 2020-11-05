@@ -1,7 +1,7 @@
 # R-assignment2
 To run the assignment open the provided zip file as a R project
 First go to the archive file and unzip the train-faces.zip file and delete the zip file
-Open the 'Dashboard.r' file in R studio and run as a shiny app.
+Open the 'app.r' file in R studio and run as a shiny app.
 For the test dataset for PCA a pizza.csv is given which has the content info on pizzas
 from different brands.
 
